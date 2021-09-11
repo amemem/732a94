@@ -1,2 +1,1 @@
-# 732a94
-Advanced Programming in R
+# Advanced Programming in R (732A94)
