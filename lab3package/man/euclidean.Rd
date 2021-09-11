@@ -18,5 +18,5 @@ euclidean(a, b)
 The largest number that both numbers are divisible by.
 }
 \description{
-Computes the greatest common divisor of two positive integers.
+Computes the greatest common divisor of two integers.
 }

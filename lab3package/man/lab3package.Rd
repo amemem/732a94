@@ -7,9 +7,9 @@
 \title{Euclidean algorithm and Dijkstra's algorithm}
 \description{
 This package contains two functions. The first function uses the
-    Euclidean algorithm to compute the greatest common divisor of two positive
-    integers. The second function uses Dijkstra's algorithm to compute the
-    shortest paths between nodes in a graph.
+    Euclidean algorithm to compute the greatest common divisor of two integers.
+    The second function uses Dijkstra's algorithm to compute the shortest paths
+    from an initial node to all other nodes in a graph.
 }
 \section{Euclidean}{
 

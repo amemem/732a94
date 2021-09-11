@@ -9,8 +9,9 @@ Authors@R: c(
   person("Shahreen", "Saleem", email = "shahreen.saleem111@gmail.com", role = "aut"))
 Maintainer: Amer Memic <ameme698@student.liu.se>
 Description: This package contains two functions. The first function uses the
-    Euclidean algorithm to compute the greatest common divisor of two positive
-    integers. The second function uses Dijkstra's algorithm to compute the
-    shortest paths between nodes in a graph.
+    Euclidean algorithm to compute the greatest common divisor of two integers.
+    The second function uses Dijkstra's algorithm to compute the shortest paths
+    from an initial node to all other nodes in a graph.
+Suggests: testthat (>= 3.0.4)
 License: MIT
 RoxygenNote: 7.1.1
