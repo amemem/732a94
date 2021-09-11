@@ -1,0 +1,16 @@
+Package: lab3package
+Type: Package
+Title: Euclidean algorithm and Dijkstra's algorithm
+Version: 1.0
+Date: 2021-09-11
+Authors@R: c(
+  person("Amer", "Memic", email = "ameme698@student.liu.se", role = c("cre", "aut")),
+  person("Olof", "Josefsson", email = "olojo524@student.liu.se", role = "aut"),
+  person("Shahreen", "Saleem", email = "shahreen.saleem111@gmail.com", role = "aut"))
+Maintainer: Amer Memic <ameme698@student.liu.se>
+Description: This package contains two functions. The first function uses the
+    Euclidean algorithm to compute the greatest common divisor of two positive
+    integers. The second function uses Dijkstra's algorithm to compute the
+    shortest paths between nodes in a graph.
+License: MIT
+RoxygenNote: 7.1.1
