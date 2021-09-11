@@ -7,10 +7,6 @@
 #' 
 #' @return The largest number that both numbers are divisible by.
 #' 
-#' @examples
-#' euclidean(123612, 13892347912)
-#' euclidean(100, 1000)
-#' 
 #' @source \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 #' 
 euclidean = function(a, b) {

@@ -10,7 +10,7 @@
 dijkstra(graph, init)
 }
 \arguments{
-\item{graph}{A data frame with 3 variables labeled \code{v1}, \code{v2} and \code{w}.}
+\item{graph}{A data frame with 3 variables labeled \emph{v1}, \emph{v2} and \emph{w}.}
 
 \item{init}{The starting node where all paths are to be computed from.}
 }
@@ -19,9 +19,4 @@ A vector with the distances from the initial node to all nodes.
 }
 \description{
 Computes the shortest paths from an initial node to all other nodes in a graph.
-}
-\examples{
-dijkstra(wiki_graph, 1)
-dijkstra(wiki_graph, 3)
-
 }

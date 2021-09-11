@@ -20,8 +20,3 @@ The largest number that both numbers are divisible by.
 \description{
 Computes the greatest common divisor of two positive integers.
 }
-\examples{
-euclidean(123612, 13892347912)
-euclidean(100, 1000)
-
-}
