@@ -7,6 +7,8 @@
 #' 
 #' @return The largest number that both numbers are divisible by.
 #' 
+#' @export
+#' 
 #' @source \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 #' 
 euclidean = function(a, b) {

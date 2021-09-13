@@ -7,6 +7,8 @@
 #' 
 #' @return A vector with the distances from the initial node to all nodes.
 #' 
+#' @export
+#' 
 #' @source \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
 #' 
 dijkstra = function(graph, init) {
