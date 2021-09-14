@@ -7,12 +7,12 @@
 \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}
 }
 \usage{
-dijkstra(graph, init)
+dijkstra(graph, init_node)
 }
 \arguments{
 \item{graph}{A data frame with 3 variables labeled \emph{v1}, \emph{v2} and \emph{w}.}
 
-\item{init}{The starting node where all paths are to be computed from.}
+\item{init_node}{The starting node where all paths are to be computed from.}
 }
 \value{
 A vector with the distances from the initial node to all nodes.
